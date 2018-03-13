@@ -1,1 +1,3 @@
-This is my git directory, motherfuckers!
+#README.md
+
+This is my git directory!
